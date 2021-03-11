@@ -23,8 +23,8 @@ for i in s:
 		co+=1
 		ans.add("o")
 		
-	elif i=="u" or i=="U": #checking for vowel u and A
-	U
+	elif i=="u" or i=="U": #checking for vowel u and U
+	
 		cu+=1
 		ans.add("u")
 
